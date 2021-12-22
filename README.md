@@ -10,7 +10,7 @@ git clone https://github.com/evans646/jwt-demo.git
 Change directory to the project directory and run:
 
 ```
-npm install 
+cd  jwt-demo && npm install 
 ```
 Afterwards you can start the server with :
 ```
