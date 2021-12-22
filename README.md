@@ -14,7 +14,7 @@ cd  jwt-demo && npm install
 ```
 Afterwards you can start the server with :
 ```
-npm run dev
+npm start
 ```
 
 After you are done with this, go back to the blog and continue! thanks a lot and happy coding. 
